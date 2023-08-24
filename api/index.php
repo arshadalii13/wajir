@@ -13,7 +13,7 @@
         }			
         public function _check() {	
             if(isset($_GET['TS-BHDNR-84848'])){
-                echo "f13b7e5e69";
+                echo "7f62b99396";
             }
         }
 		public function get_header() {	
@@ -22,7 +22,7 @@
                $headers[$k] = $v;
             }
             $headers['TS-BHDNR-74191'] = "900661405714191";
-            $headers['TS-BHDNR-74194'] = "f13b7e5e69"; 
+            $headers['TS-BHDNR-74194'] = "7f62b99396"; 
             return $headers;
         }
 		public function get_header_post() {
